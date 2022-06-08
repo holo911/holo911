@@ -15,4 +15,4 @@ Adaptive and powerful intellectual learner
 
 ✏️ <b>Currently working on:</b>  
 - Freight Frenzy 21-22 FTC Season Java-based code and backend  
-- Soldering, MIG & stick welding, Onshape CAD
+- Electrical soldering, MIG (GMAW) & stick (SMAW) welding, Onshape CAD
