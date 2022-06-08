@@ -4,3 +4,11 @@ Year 9 Academic Student
 Murray Bridge High School  
 Specialist in Digital and Disruptive Technologies  
 Adaptive and powerful learner  
+
+💾 Languages:  
+- Java
+- HTML
+- CSS
+- JavaScript
+- Blockly FTC
+- Scratch v3.0
