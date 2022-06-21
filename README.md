@@ -15,5 +15,5 @@ Adaptive and powerful intellectual learner
 
 ✏️ <b>Currently working on:</b>  
 - Freight Frenzy 21-22 FTC Season Java-based code and backend (https://github.com/holo911/BunyipsFTC)  
-- HTML5 + CSS + JS websites and design (https://github.com/holo911/holo911.github.io)  
-- Electrical soldering, MIG (GMAW) & stick (SMAW) welding, Onshape CAD  
+- HTML5 + CSS3 + JS websites and design (https://github.com/holo911/holo911.github.io)  
+- Electrical soldering, Shielded metal arc welding, Onshape CAD, handyman skills, lots of self-improvement  
