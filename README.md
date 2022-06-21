@@ -6,7 +6,7 @@ Specialist in Digital and Disruptive Technologies
 Adaptive and powerful intellectual learner  
 
 💾 <b>Languages:</b>  
-- Java
+- Android Studio Java (https://github.com/holo911/BunyipsFTC)  
 - HTML
 - CSS
 - JavaScript
@@ -14,6 +14,6 @@ Adaptive and powerful intellectual learner
 - Scratch v3.0
 
 ✏️ <b>Currently working on:</b>  
-- Freight Frenzy 21-22 FTC Season Java-based code and backend  
-- Electrical soldering, MIG (GMAW) & stick (SMAW) welding, Onshape CAD
-- HTML5 + CSS + JS websites and design
+- Freight Frenzy 21-22 FTC Season Java-based code and backend (https://github.com/holo911/BunyipsFTC)  
+- HTML5 + CSS + JS websites and design (https://github.com/holo911/holo911.github.io)  
+- Electrical soldering, MIG (GMAW) & stick (SMAW) welding, Onshape CAD  
