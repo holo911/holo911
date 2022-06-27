@@ -8,7 +8,6 @@ Adaptive and powerful intellectual learner
 💾 <b>Languages:</b>  
 - Java (https://github.com/holo911/BunyipsFTC)  
 - Python (learning, https://replit.com/@LUCASBUBNER/PythonTesting#main.py)
-- C++ (learning, https://replit.com/@LUCASBUBNER/CPPTesting#main.cpp)
 - JavaScript/jQuery
 - HTML5
 - CSS3
@@ -17,7 +16,6 @@ Adaptive and powerful intellectual learner
 
 ✏️ <b>Currently working on:</b>  
 - Learning Python
-- Learning C++
 - Improving JS knowledge
-- Advanced usage of Java classes and OOP => https://github.com/holo911/BunyipsFTC
+- Improving advanced uses of Java classes and OOP => https://github.com/holo911/BunyipsFTC
 - Shielded metal arc welding, Handyman skills, lots of self-improvement  
