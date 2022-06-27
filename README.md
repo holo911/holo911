@@ -6,10 +6,11 @@ Specialist in Digital and Disruptive Technologies
 Adaptive and powerful intellectual learner  
 
 💾 <b>Languages:</b>  
-- Android Studio Java (https://github.com/holo911/BunyipsFTC)  
-- HTML
-- CSS
-- JavaScript
+- Java (https://github.com/holo911/BunyipsFTC)  
+- Python
+- HTML5
+- CSS3
+- JavaScript/jQuery
 - Blockly FTC
 - Scratch v3.0
 
