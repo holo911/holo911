@@ -7,14 +7,17 @@ Adaptive and powerful intellectual learner
 
 💾 <b>Languages:</b>  
 - Java (https://github.com/holo911/BunyipsFTC)  
-- Python
+- Python (learning, https://replit.com/@LUCASBUBNER/PythonTesting#main.py)
+- C++ (learning, https://replit.com/@LUCASBUBNER/CPPTesting#main.cpp)
+- JavaScript/jQuery
 - HTML5
 - CSS3
-- JavaScript/jQuery
 - Blockly FTC
 - Scratch v3.0
 
 ✏️ <b>Currently working on:</b>  
-- Freight Frenzy 21-22 FTC Season Java-based code and backend (https://github.com/holo911/BunyipsFTC)  
-- HTML5 + CSS3 + JS websites and design (https://github.com/holo911/holo911.github.io)  
-- Electrical soldering, Shielded metal arc welding, Onshape CAD, handyman skills, lots of self-improvement  
+- Learning Python
+- Learning C++
+- Improving JS knowledge
+- Advanced usage of Java classes and OOP => https://github.com/holo911/BunyipsFTC
+- Shielded metal arc welding, Handyman skills, lots of self-improvement  
