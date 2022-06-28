@@ -7,7 +7,7 @@ Adaptive and powerful intellectual learner
 
 💾 <b>Languages:</b>  
 - Java (https://github.com/holo911/BunyipsFTC)  
-- Python (learning, https://replit.com/@LUCASBUBNER/PyCalculator#main.py)
+- Python (learning, https://replit.com/@LUCASBUBNER/AdventureGame#main.py)
 - JavaScript/jQuery
 - HTML5
 - CSS3
