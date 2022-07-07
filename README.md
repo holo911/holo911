@@ -19,4 +19,5 @@ Adaptive and powerful intellectual learner
 - Improving JS knowledge through jQuery and full-stack website development
 - Improving advanced uses of Java classes and OOP => https://github.com/holo911/BunyipsFTC
 - May start to learn C# and Unity Engine soon
+- Preparing to create a digital portfolio website
 - Shielded metal arc welding, Handyman skills, lots of self-improvement
