@@ -16,6 +16,7 @@ Adaptive and powerful intellectual learner
 - Scratch v2/3.0 (my very first language at the age of 10, 5 years ago in 2017)
 
 ✏️ <b>Currently working on:</b>  
+- Taking the CS50x course from Harvard to consolidate my CS knowledge for the future
 - Learning Python
 - Improving JS knowledge through jQuery and full-stack website development
 - Improving advanced uses of Java classes and OOP => https://github.com/holo911/BunyipsFTC
