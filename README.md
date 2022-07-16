@@ -8,7 +8,7 @@ Adaptive and powerful intellectual learner
 💾 <b>Languages:</b>  
 - Java (https://github.com/holo911/BunyipsFTC)  
 - C# (cross-transferring Java skills, learning for Unity Engine)
-- Python (learning, https://github.com/holo911/AdventureGame)
+- Python (learning, https://replit.com/@LUCASBUBNER)
 - JavaScript/jQuery
 - HTML5
 - CSS3
