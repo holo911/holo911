@@ -6,9 +6,9 @@ Year 9 Academic Student
 Adaptive and powerful intellectual learner  
 
 💾 <b>Languages:</b>  
-- Java (https://github.com/holo911/BunyipsFTC)  
-- C# (cross-transferring Java skills, learning for Unity Engine)
-- Python (learning, https://replit.com/@LUCASBUBNER)
+- Python (primary focus, https://replit.com/@LUCASBUBNER)
+- Java (https://github.com/holo911/BunyipsFTC)
+- C# (cross-transferring Java skills, moreso focused on learning more about Object Oriented Programming)
 - JavaScript/jQuery
 - HTML5
 - CSS3
@@ -20,6 +20,6 @@ Adaptive and powerful intellectual learner
 - Learning Python
 - Improving JS knowledge through jQuery and full-stack website development
 - Improving advanced uses of Java classes and OOP => https://github.com/holo911/BunyipsFTC
-- May start to use Unity Engine soon
+- May start to use Unity Engine soon, but is a low priority
 - Preparing to create a digital portfolio website
 - Shielded metal arc welding, Handyman skills, lots of self-improvement
