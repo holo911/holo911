@@ -9,11 +9,16 @@ Adaptive and powerful intellectual learner
 - Python (primary focus, https://replit.com/@LUCASBUBNER)
 - Java (https://github.com/holo911/BunyipsFTC)
 - C# (cross-transferring Java skills, moreso focused on learning more about Object Oriented Programming)
-- JavaScript/jQuery
+- JavaScript
 - HTML5
 - CSS3
 - Blockly Java for FTC
 - Scratch v2/3.0 (my very first language at the age of 10, 5 years ago in 2017)
+
+⌨️ <b>IDEs:</b>  
+- Visual Studio Code
+- Repl.it Online IDE
+- Android Studio & IntelliJ IDEA
 
 ✏️ <b>Currently working on:</b>  
 - Taking the CS50x course from Harvard to consolidate my CS knowledge for the future
