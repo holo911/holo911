@@ -1,4 +1,5 @@
 > <b>Lucas Bubner</b>  
+Australian-Indonesian Male  
 Year 9 Academic Student  
 15 years old ('07)  
 
