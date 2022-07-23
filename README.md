@@ -22,10 +22,9 @@ First programming language: Scratch v2/3.0 in 2017, 5 years ago
 - Android Studio & IntelliJ IDEA
 
 ✏️ <b>Currently working on:</b>  
-- Taking the CS50x course from Harvard to consolidate my CS knowledge for the future
-- Learning Python
+- Taking the CS50x course from Harvard to consolidate my CS knowledge for the future, currently learning C code
+- Learning Python as my primary programming language
 - Trying to understand more into Object Oriented Programming for Java and Python
 - Improving JavaScript knowledge through website development
-- May start to use Unity Engine soon, alongside C#; but it is a low priority
 - Preparing to create a digital portfolio website
-- Shielded metal arc welding, Handyman skills, lots of self-improvement
+- A lot of self-improvement and general skill improvement, proving to my tomorrow that I will always be my best self
