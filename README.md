@@ -33,11 +33,15 @@ Year 9 Academic Student, Murray Bridge High School <br>
     Jul 2022: Started the CS50x course from Harvard
     Jul 2022: Very first C program
 
-### 💾 Programming languages
+### 💾 Technology Skills
 - Python
 - Java
 - C
 - HTML5
 - CSS3
 - JavaScript
+- Linux Bash
+- Adobe Premiere Pro
+- Adobe Photoshop
 - Blockly / Scratch v2/3.0
+- Adaptive troubleshooting
