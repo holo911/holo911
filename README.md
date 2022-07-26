@@ -5,9 +5,10 @@ Year 9 Academic Student, Murray Bridge High School <br>
 
 ### 💡 My traits
 - Specialist in Digital and Disruptive Technologies
-- Adaptive and powerful intellectual learner
+- Extensive initiative powered self-learner
 - Solution-oriented logical problem solver
-- Efficiency, reliability, and intelligence
+- Adaptive and powerful intellectual learner
+- Known for efficiency, reliability, and intelligence
 
 ### 📣 My roles
 - Captain of the Murray Bridge High School Student Robotics Club <b>[2022-Present]</b>
