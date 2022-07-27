@@ -25,7 +25,7 @@ Year 9 Academic Student, Murray Bridge High School <br>
 ### ✨ My accomplishments
     Jun 2017: Started my journey into technology, starting with Scratch v2.0
     May 2020: Joined the Highbury Primary School Media Team
-    Nov 2020: Sole creator of the Year 7 Graduation Video, edited with Adobe Premiere Pro 2020
+    Nov 2020: Sole creator of the Highbury Primary School Year 7 Graduation Video for 2020, edited with Adobe Premiere Pro 2020
     Feb 2021: Very first HTML+CSS+JS website
     May 2022: Joined the Murray Bridge Bunyips Student Robotics Club - FTC Team 15215
     May 2022: Very first Java program
