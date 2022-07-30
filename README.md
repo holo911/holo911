@@ -12,7 +12,7 @@ Year 9 Academic Student, Murray Bridge High School <br>
 
 ### 📣 My roles
 - Captain of the Murray Bridge High School Student Robotics Club <b>[2022-Present]</b>
-- Chairperson of the Murray Bridge High School <i>Wirakuthi</i> Neighbourhood Leader's Board <b>[2022-Present]</b>
+- Chairperson of the Murray Bridge High School <i>Wirakuthi</i> Neighbourhood Leaders Board <b>[2022-Present]</b>
 - Captain of the Highbury Primary School Media Team <b>[2020-2020]</b>
 
 ### 🏆 My achievements
