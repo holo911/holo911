@@ -29,6 +29,7 @@ Year 9 Academic Student, Murray Bridge High School <br>
     Feb 2021: Very first HTML+CSS+JS website
     May 2022: Joined the Murray Bridge Bunyips Student Robotics Club - FTC Team 15215
     May 2022: Very first Java program
+    Jun 2022: Promoted to a Captain position of the Bunyips Robotics Club
     Jun 2022: Very first Python program
     Jul 2022: Started the CS50x course from Harvard
     Jul 2022: Very first C program
