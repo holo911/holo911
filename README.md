@@ -33,6 +33,7 @@ Year 9 Academic Student, Murray Bridge High School <br>
     Jun 2022: Very first Python program
     Jul 2022: Started the CS50x course from Harvard
     Jul 2022: Very first C program
+    Aug 2022: First Node.js website
 
 ### 💾 Technology skills / programming languages
 - Python
